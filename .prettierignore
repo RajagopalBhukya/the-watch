@@ -1,0 +1,9 @@
+dist
+node_modules
+public/**/*.gif
+public/**/*.mp4
+public/**/*.png
+public/**/*.jpg
+public/**/*.jpeg
+public/**/*.ttf
+package-lock.json

@@ -1,0 +1,92 @@
+{
+  "catalog": "shop",
+  "version": 2,
+  "productOrder": [
+    "shop-bronze-regent",
+    "shop-silver-panda",
+    "shop-ronin-digital",
+    "shop-imperial-gold"
+  ],
+  "productsById": {
+    "shop-bronze-regent": {
+      "id": "shop-bronze-regent",
+      "sourceId": "bronze-regent",
+      "name": "Aurevon Bronze Regent",
+      "model": "AV-BR01",
+      "description": "A warm bronze cushion chronograph with a champagne-toned dial and woven-texture detailing, designed for a vintage-luxury statement.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 18999,
+        "mrp": 25999,
+        "discountPercent": 27
+      },
+      "assets": {
+        "singleImage": "/shop/bronze-regent/single.jpg",
+        "image360": "/shop/bronze-regent/360.png",
+        "video": "/shop/videos/bronze-regent.mp4",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "shop-silver-panda": {
+      "id": "shop-silver-panda",
+      "sourceId": "silver-panda",
+      "name": "Aurevon Silver Panda",
+      "model": "AV-SP01",
+      "description": "A crisp silver-tone chronograph with a white panda dial, twin dark subdials, and a charcoal leather strap.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 12999,
+        "mrp": 17999,
+        "discountPercent": 28
+      },
+      "assets": {
+        "singleImage": "/shop/silver-panda/single.jpg",
+        "image360": "/shop/silver-panda/360.png",
+        "video": "/shop/videos/silver-panda.mp4",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "shop-ronin-digital": {
+      "id": "shop-ronin-digital",
+      "sourceId": "ronin-digital",
+      "name": "Aurevon Ronin",
+      "model": "AV-RD02",
+      "description": "An expressive digital watch with an ornate antique-silver case and a distressed samurai-pattern leather strap.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 8999,
+        "mrp": 11999,
+        "discountPercent": 25
+      },
+      "assets": {
+        "singleImage": "/shop/ronin-digital/single.jpg",
+        "image360": "/shop/ronin-digital/360.png",
+        "video": "/shop/videos/ronin-digital.mp4",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "shop-imperial-gold": {
+      "id": "shop-imperial-gold",
+      "sourceId": "imperial-gold",
+      "name": "Aurevon Imperial",
+      "model": "AV-IG03",
+      "description": "An opulent gold-tone dress watch with engraved details, a textured silver-white dial, and a polished metal bracelet.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 29999,
+        "mrp": 39999,
+        "discountPercent": 25
+      },
+      "assets": {
+        "singleImage": "/shop/imperial-gold/single.jpg",
+        "image360": "/shop/imperial-gold/360.png",
+        "video": "/shop/videos/imperial-gold.mp4",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    }
+  }
+}

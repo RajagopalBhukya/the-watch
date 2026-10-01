@@ -1,0 +1,248 @@
+{
+  "catalog": "collections",
+  "version": 1,
+  "productOrder": [
+    "collection-tw-001",
+    "collection-tw-002",
+    "collection-tw-003",
+    "collection-tw-004",
+    "collection-tw-005",
+    "collection-tw-006",
+    "collection-tw-007",
+    "collection-tw-008",
+    "collection-tw-009",
+    "collection-tw-010",
+    "collection-tw-011",
+    "collection-tw-012"
+  ],
+  "productsById": {
+    "collection-tw-001": {
+      "id": "collection-tw-001",
+      "sourceId": "tw-001",
+      "name": "Aurevon Bronze Regent",
+      "model": "AV-BR01",
+      "description": "A warm bronze cushion chronograph with a champagne-toned dial and woven-texture detailing, designed for a vintage-luxury statement.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 18999,
+        "mrp": 25999,
+        "discountPercent": 27
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-001-single.jpg",
+        "image360": "/collection-demo/images/360/tw-001-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "collection-tw-002": {
+      "id": "collection-tw-002",
+      "sourceId": "tw-002",
+      "name": "Aurevon Silver Panda",
+      "model": "AV-SP02",
+      "description": "A crisp silver sports chronograph with high-contrast dial detailing and a versatile polished-metal profile.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 12999,
+        "mrp": 17999,
+        "discountPercent": 28
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-002-single.jpg",
+        "image360": "/collection-demo/images/360/tw-002-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "collection-tw-003": {
+      "id": "collection-tw-003",
+      "sourceId": "tw-003",
+      "name": "Aurevon Ronin",
+      "model": "AV-RN03",
+      "description": "A character-driven mechanical-inspired watch with an antique samurai aesthetic, sculptural casework, and a bold collector feel.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 8999,
+        "mrp": 11999,
+        "discountPercent": 25
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-003-single.jpg",
+        "image360": "/collection-demo/images/360/tw-003-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "collection-tw-004": {
+      "id": "collection-tw-004",
+      "sourceId": "tw-004",
+      "name": "Aurevon Imperial",
+      "model": "AV-IM04",
+      "description": "An opulent gold-tone statement watch built around rich metallic finishing and a formal luxury presence.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 29999,
+        "mrp": 39999,
+        "discountPercent": 25
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-004-single.jpg",
+        "image360": "/collection-demo/images/360/tw-004-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "collection-tw-005": {
+      "id": "collection-tw-005",
+      "sourceId": "tw-005",
+      "name": "Aurevon Heritage Rose",
+      "model": "AV-HR05",
+      "description": "A refined rose-gold dress watch combining classic proportions with an elegant premium finish for evening wear.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 34999,
+        "mrp": 46999,
+        "discountPercent": 26
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-005-single.jpg",
+        "image360": "/collection-demo/images/360/tw-005-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "collection-tw-006": {
+      "id": "collection-tw-006",
+      "sourceId": "tw-006",
+      "name": "Aurevon Nocturne",
+      "model": "AV-NC06",
+      "description": "A gold-and-navy luxury watch with deep blue accents, polished metal surfaces, and a sophisticated night-sky character.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 27999,
+        "mrp": 37999,
+        "discountPercent": 26
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-006-single.jpg",
+        "image360": "/collection-demo/images/360/tw-006-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "collection-tw-007": {
+      "id": "collection-tw-007",
+      "sourceId": "tw-007",
+      "name": "Aurevon Octavia Slate",
+      "model": "AV-OS07",
+      "description": "A modern octagonal rose-gold watch with a slate-blue dial, architectural bezel, and integrated high-luxury styling.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 39999,
+        "mrp": 53999,
+        "discountPercent": 26
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-007-single.png",
+        "image360": "/collection-demo/images/360/tw-007-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "collection-tw-008": {
+      "id": "collection-tw-008",
+      "sourceId": "tw-008",
+      "name": "Aurevon Marine Rose",
+      "model": "AV-MR08",
+      "description": "A sporty rose-gold marine-inspired watch balancing a rugged rotating-bezel look with polished premium detailing.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 31999,
+        "mrp": 42999,
+        "discountPercent": 26
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-008-single.jpg",
+        "image360": "/public/collection-demo/images/360/tw-008-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "collection-tw-009": {
+      "id": "collection-tw-009",
+      "sourceId": "tw-009",
+      "name": "Aurevon El Primero Noir",
+      "model": "AV-EP09",
+      "description": "A performance-focused chronograph with a technical multi-register dial and sharp contemporary motorsport energy.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 36999,
+        "mrp": 49999,
+        "discountPercent": 26
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-009-single.jpg",
+        "image360": "/collection-demo/images/360/tw-009-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "collection-tw-010": {
+      "id": "collection-tw-010",
+      "sourceId": "tw-010",
+      "name": "Aurevon Villeret Grande",
+      "model": "AV-VG10",
+      "description": "A traditional rose-gold dress watch with restrained dial architecture and a timeless executive aesthetic.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 42999,
+        "mrp": 57999,
+        "discountPercent": 26
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-010-single.jpg",
+        "image360": "/collection-demo/images/360/tw-010-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "collection-tw-011": {
+      "id": "collection-tw-011",
+      "sourceId": "tw-011",
+      "name": "Aurevon Overseas Blue",
+      "model": "AV-OB11",
+      "description": "A polished steel luxury-sport watch with an integrated bracelet and blue-dial character suited to everyday premium wear.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 44999,
+        "mrp": 59999,
+        "discountPercent": 25
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-011-single.jpg",
+        "image360": "/collection-demo/images/360/tw-011-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    },
+    "collection-tw-012": {
+      "id": "collection-tw-012",
+      "sourceId": "tw-012",
+      "name": "Aurevon Overseas Silver",
+      "model": "AV-OS12",
+      "description": "A monochrome silver luxury-sport watch with clean bracelet geometry, refined finishing, and a versatile modern profile.",
+      "currency": "INR",
+      "pricing": {
+        "sale": 41999,
+        "mrp": 55999,
+        "discountPercent": 25
+      },
+      "assets": {
+        "singleImage": "/collection-demo/images/single/tw-012-single.jpg",
+        "image360": "/collection-demo/images/360/tw-012-360.png",
+        "image360Type": "8-view turnaround/storyboard asset"
+      },
+      "demoProduct": true
+    }
+  }
+}
